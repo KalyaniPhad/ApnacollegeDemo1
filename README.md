@@ -1,3 +1,4 @@
 # ApnacollegeDemo1
 Description about our repository nama
-authour name
+<br>
+authour: name
